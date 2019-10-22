@@ -1,0 +1,31 @@
+{
+  "name": "ugql-cli",
+  "version": "0.0.0",
+  "description": "A CLI for working with GraphQL schemas ",
+  "main": "index.js",
+  "bin": {
+    "ugql": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "xzyfer",
+  "license": "MIT",
+  "dependencies": {
+    "find-up": "^4.1.0",
+    "graphql": "^14.5.8",
+    "graphql-config": "^2.2.1",
+    "yargs": "^14.2.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xzyfer/ugql-cli.git"
+  },
+  "bugs": {
+    "url": "https://github.com/xzyfer/ugql-cli/issues"
+  },
+  "homepage": "https://github.com/xzyfer/ugql-cli#readme"
+}
