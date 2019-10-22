@@ -12,6 +12,8 @@
   "author": "xzyfer",
   "license": "MIT",
   "dependencies": {
+    "chalk": "^2.4.2",
+    "disparity": "^2.0.0",
     "find-up": "^4.1.0",
     "graphql": "^14.5.8",
     "graphql-config": "^2.2.1",
