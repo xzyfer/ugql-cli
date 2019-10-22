@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const chalk = require('chalk');
 const disparity = require('disparity');
 const gqlc = require('graphql-config');
